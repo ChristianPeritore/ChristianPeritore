@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Christian Peritore!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChristianPeritore&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-</p>
-
 ### 👨‍💻 About Me
 I am a Computer Science student at **ITET Rapisardi Da Vinci** in Caltanissetta, Italy, specializing in **Informatics & Telecommunications**.
 
