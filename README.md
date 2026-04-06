@@ -1,23 +1,23 @@
-# 👋 Ciao, sono Christian Peritore!
+# 👋 Hi, I'm Christian Peritore!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChristianPeritore&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-### 👨‍💻 Chi sono
-Sono uno studente presso l'**ITET Rapisardi Da Vinci** di Caltanissetta, specializzazione **Informatica & Telecomunicazioni**. 
+### 👨‍💻 About Me
+I am a Computer Science student at **ITET Rapisardi Da Vinci** in Caltanissetta, Italy, specializing in **Informatics & Telecommunications**.
 
-La mia passione per la tecnologia è nata quando avevo solo 4 anni, grazie al primo computer regalatomi da mio padre. Da quel momento, la mia curiosità mi ha spinto a esplorare il mondo dello sviluppo software e della programmazione.
+My passion for technology started when I was just 4 years old, the moment my father gave me access to my first computer. Since then, my curiosity has driven me to explore the world of software development and systems engineering.
 
-- 🎓 **Istruzione:** Articolazione Informatica @ ITET Rapisardi Da Vinci
-- 🔭 **Focus attuale:** Approfondimento di Python e C++
-- ⚡ **Fun Fact:** Ho iniziato a "smanettare" con i PC prima ancora di imparare a scrivere!
+- 🎓 **Education:** Computer Science Track @ ITET Rapisardi Da Vinci
+- 🔭 **Currently Focusing On:** Deepening my knowledge in Python and C++
+- ⚡ **Fun Fact:** I was troubleshooting PCs before I even learned how to write!
 
 ---
 
-### 🛠 Competenze Tecniche
+### 🛠 Technical Skills
 
-| Linguaggi | Strumenti & Ambienti |
+| Languages | Tools & Environments |
 | :--- | :--- |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
@@ -25,7 +25,7 @@ La mia passione per la tecnologia è nata quando avevo solo 4 anni, grazie al pr
 
 ---
 
-### 📈 Statistiche GitHub
+### 📈 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristianPeritore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianPeritore&layout=compact&theme=tokyonight" />
@@ -33,12 +33,12 @@ La mia passione per la tecnologia è nata quando avevo solo 4 anni, grazie al pr
 
 ---
 
-### 📫 Come contattarmi
+### 📫 Let's Connect!
 
-Se vuoi collaborare a un progetto o semplicemente scambiare due chiacchiere sulla programmazione:
+Whether you want to collaborate on a project or just chat about programming, feel free to reach out:
 
-* **Email Istituzionale:** [christian.peritore@rapisardidavinci.it](mailto:christian.peritore@rapisardidavinci.it)
-* **Email Personale:** [chri.pe09@gmail.com](mailto:chri.pe09@gmail.com)
+* **Academic Email:** [christian.peritore@rapisardidavinci.it](mailto:christian.peritore@rapisardidavinci.it)
+* **Personal Email:** [chri.pe09@gmail.com](mailto:chri.pe09@gmail.com)
 
 ---
 
