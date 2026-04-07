@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 I am a Computer Science student at **ITET Rapisardi Da Vinci** in Caltanissetta, Italy, specializing in **Informatics & Telecommunications**.
 
-My passion for technology started when I was just 4 years old, the moment my father gave me access to my first computer. Since then, my curiosity has driven me to explore the world of software development and systems engineering.
+My passion for technology started when I was just 4 years old, the moment my father gave me access to my first computer. Since then, my curiosity has driven me to explore the world of software development and systems engineering. I'm open for collabs, pull requets, merging and discussions to improve my skills, comunicate with others to maybe even form a group and to make my work better.
 
 - 🎓 **Education:** Computer Science Track @ ITET Rapisardi Da Vinci
 - 🔭 **Currently Focusing On:** Deepening my knowledge in Python and C++
