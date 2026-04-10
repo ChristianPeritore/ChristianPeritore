@@ -28,7 +28,7 @@ My passion for technology started when I was just 4 years old, the moment my fat
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChristianPeritore&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianPeritore&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianPeritore&theme=tokyonight"x/>
 </p>
 
 ---
