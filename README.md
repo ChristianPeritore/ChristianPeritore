@@ -37,9 +37,9 @@ Whether you want to collaborate on a project or just chat about programming, fee
 
 ---
 
-[![Statistiche GitHub di Christian Peritore](https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=ChristianPeritore&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TUO_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ChristianPeritore&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
