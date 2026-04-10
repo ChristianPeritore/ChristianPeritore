@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Christian Peritore!
+# 👋 Hi, I'm Christian!
 
 ### 👨‍💻 About Me
 I am a Computer Science student at **ITET Rapisardi Da Vinci** in Caltanissetta, Italy, specializing in **Informatics & Telecommunications**.
