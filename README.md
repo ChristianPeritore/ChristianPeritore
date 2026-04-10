@@ -26,6 +26,10 @@ My passion for technology started when I was just 4 years old, the moment my fat
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChristianPeritore&layout=compact&theme=tokyonight" />
 </p>
 
+[![](https://github-readme-stats.vercel.app/api?username=ChristianPeritore&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ChristianPeritore&theme=tokyonight)](https://git.io/streak-stats)
+
 ---
 
 ### 📫 Let's Connect!
@@ -34,12 +38,6 @@ Whether you want to collaborate on a project or just chat about programming, fee
 
 * **Academic Email:** [christian.peritore@rapisardidavinci.it](mailto:christian.peritore@rapisardidavinci.it)
 * **Personal Email:** [chri.pe09@gmail.com](mailto:chri.pe09@gmail.com)
-
----
-
-[!(https://github-readme-stats.vercel.app/api?username=ChristianPeritore&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ChristianPeritore&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
