@@ -44,10 +44,3 @@ Whether you want to collaborate on a project or just chat about programming, fee
   <br/>
   <img src="https://streak-stats.demolab.com/?user=ChristianPeritore&theme=tokyonight" alt="Streak" />
 </p>
-
----
-
-<p align="center">
-  <i>"The only way to learn a new programming language is by writing programs in it."</i> <br>
-  <b>— Dennis Ritchie</b>
-</p>
