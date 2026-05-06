@@ -13,6 +13,15 @@ My passion for technology started when I was just 4 years old, the moment my fat
 
 ---
 
+### 📫 Let's Connect!
+
+Whether you want to collaborate on a project or just chat about programming, feel free to reach out:
+
+* **Academic Email:** [christian.peritore@rapisardidavinci.it](mailto:christian.peritore@rapisardidavinci.it)
+* **Personal Email:** [chri.pe09@gmail.com](mailto:chri.pe09@gmail.com)
+
+---
+
 ### 🛠 Technical Skills
 
 | Languages | Tools & Environments |
@@ -35,15 +44,6 @@ My passion for technology started when I was just 4 years old, the moment my fat
   <br/>
   <img src="https://streak-stats.demolab.com/?user=ChristianPeritore&theme=tokyonight" alt="Streak" />
 </p>
-
----
-
-### 📫 Let's Connect!
-
-Whether you want to collaborate on a project or just chat about programming, feel free to reach out:
-
-* **Academic Email:** [christian.peritore@rapisardidavinci.it](mailto:christian.peritore@rapisardidavinci.it)
-* **Personal Email:** [chri.pe09@gmail.com](mailto:chri.pe09@gmail.com)
 
 ---
 
