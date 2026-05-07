@@ -44,3 +44,5 @@ Whether you want to collaborate on a project or just chat about programming, fee
   <br/>
   <img src="https://streak-stats.demolab.com/?user=ChristianPeritore&theme=tokyonight" alt="Streak" />
 </p>
+
+![Statistiche Radar](https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME&show_icons=true&theme=radical)
