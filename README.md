@@ -44,25 +44,3 @@ Whether you want to collaborate on a project or just chat about programming, fee
   <br/>
   <img src="https://streak-stats.demolab.com/?user=ChristianPeritore&theme=tokyonight" alt="Streak" />
 </p>
-
-![Statistiche Radar](https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME&show_icons=true&theme=radical)
-
-# 📊 Le mie Statistiche GitHub
-
-<p align="center">
-  <img src="https://github.com/IL_TUO_USERNAME/IL_TUO_USERNAME/blob/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
-</p>
-
----
-
-### 🛠 Strumenti e Linguaggi
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IL_TUO_USERNAME&layout=donut&theme=radical" alt="Linguaggi" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME&show_icons=true&theme=radical" alt="Statistiche Generali" width="45%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IL_TUO_USERNAME&theme=radical" alt="Streak" />
-</p>
